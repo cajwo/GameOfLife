@@ -1,0 +1,22 @@
+{
+  "name": "CIS197-React-HW",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Devesh Dayal",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-less": "~0.11.0",
+    "grunt-contrib-watch": "~0.6.1"
+  },
+
+  "dependencies": {
+    "jquery": "2.1.0",
+    "grunt-cli": "*",
+    "express": "3.3.8",
+    "ejs": "*"
+  }
+}
